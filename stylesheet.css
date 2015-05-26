@@ -1,0 +1,94 @@
+body {
+  background-image: url('http://subtlepatterns.com/patterns/eight_horns.png');
+  height:100%;
+}
+h1, h4 {
+  font-family:impact;
+}
+table {
+  width:600px;
+}
+th {
+  text-align:center;
+}
+.tbbox {
+  position:relative;
+  left:120px;
+  margin-bottom: 200px;
+}
+.tbtitle {
+  margin-top:200px;
+  padding:0px 170px;
+}
+div {
+  width:850px;
+  margin: 0px auto;
+}
+.txtcourier {
+  font-family:Courier;
+}
+.navbar {
+  margin: 0 auto;
+  background: #0a0a0a;
+  height: 30px;
+  text-align: center;
+  position:fixed;
+  width: 100%;
+  top: 0px;
+  padding-top: 6px;
+  color:white;
+  z-index:1;
+}
+.navbar a {
+  color:white
+}
+#wrapper {
+  margin-top:70px;
+  width: 100%;
+}
+.topsection {
+  background-image: url("http://comoficarrico.biz/wp-content/uploads/2014/01/Dark-Background-HD-Wallpaper-1920x1080.jpg");
+  width:850px;
+  height:600px;
+  color: #8c0000;
+}
+.thumbnail {
+  width:300px;
+  height:300px;
+  float:right;
+  position:relative;
+  right:20px;
+  top: 170px;
+}
+.welcometxt {
+  position: relative;
+  top: 200px;
+  left: -150px;
+  width: 400px;
+}
+.objectivesect {
+  padding-top: 25px;
+  padding-bottom:20px;
+}
+.resumesec {
+  border-top:2px solid black;
+  border-bottom:2px solid black;
+  padding-top:25px;
+  padding-bottom:50px;
+  margin-bottom:20px;
+}
+.contactus {
+  border-top:2px solid black;
+  text-align:center;
+}
+a:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  color:#7ca5dd;
+}
+
+a:active {
+    color: yellow;
+}
